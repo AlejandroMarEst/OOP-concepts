@@ -7,5 +7,12 @@
       <FileName>CoffeeMachine.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="oopconcepts.EspressoMachine">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>EspressoMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

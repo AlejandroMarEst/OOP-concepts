@@ -13,7 +13,7 @@ public class CoffeeMachine
 		Price = price;
 		WaterLevel = 0;
 	}
-	public void MakeCoffee()
+	public virtual void MakeCoffee()
 	{
 		const string Made = "Here you go, one cup of coffee!!";
 		const string NoWater = "There's not enough water!!"; 
